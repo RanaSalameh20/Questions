@@ -1,0 +1,7 @@
+C:\Users\ranav\Desktop\WordPattern\bin\Debug\WordPattern.exe.config
+C:\Users\ranav\Desktop\WordPattern\bin\Debug\WordPattern.exe
+C:\Users\ranav\Desktop\WordPattern\bin\Debug\WordPattern.pdb
+C:\Users\ranav\Desktop\WordPattern\obj\Debug\WordPattern.csproj.AssemblyReference.cache
+C:\Users\ranav\Desktop\WordPattern\obj\Debug\WordPattern.csproj.CoreCompileInputs.cache
+C:\Users\ranav\Desktop\WordPattern\obj\Debug\WordPattern.exe
+C:\Users\ranav\Desktop\WordPattern\obj\Debug\WordPattern.pdb
