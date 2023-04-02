@@ -1,0 +1,7 @@
+C:\Users\ranav\Desktop\GenerateParentheses\bin\Debug\GenerateParentheses.exe.config
+C:\Users\ranav\Desktop\GenerateParentheses\bin\Debug\GenerateParentheses.exe
+C:\Users\ranav\Desktop\GenerateParentheses\bin\Debug\GenerateParentheses.pdb
+C:\Users\ranav\Desktop\GenerateParentheses\obj\Debug\GenerateParentheses.csproj.AssemblyReference.cache
+C:\Users\ranav\Desktop\GenerateParentheses\obj\Debug\GenerateParentheses.csproj.CoreCompileInputs.cache
+C:\Users\ranav\Desktop\GenerateParentheses\obj\Debug\GenerateParentheses.exe
+C:\Users\ranav\Desktop\GenerateParentheses\obj\Debug\GenerateParentheses.pdb
