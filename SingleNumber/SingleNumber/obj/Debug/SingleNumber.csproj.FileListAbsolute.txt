@@ -5,3 +5,10 @@ C:\Users\ranav\Desktop\SingleNumber\SingleNumber\obj\Debug\SingleNumber.csproj.A
 C:\Users\ranav\Desktop\SingleNumber\SingleNumber\obj\Debug\SingleNumber.csproj.CoreCompileInputs.cache
 C:\Users\ranav\Desktop\SingleNumber\SingleNumber\obj\Debug\SingleNumber.exe
 C:\Users\ranav\Desktop\SingleNumber\SingleNumber\obj\Debug\SingleNumber.pdb
+C:\Users\ranav\Desktop\Questions\SingleNumber\SingleNumber\bin\Debug\SingleNumber.exe.config
+C:\Users\ranav\Desktop\Questions\SingleNumber\SingleNumber\bin\Debug\SingleNumber.exe
+C:\Users\ranav\Desktop\Questions\SingleNumber\SingleNumber\bin\Debug\SingleNumber.pdb
+C:\Users\ranav\Desktop\Questions\SingleNumber\SingleNumber\obj\Debug\SingleNumber.csproj.AssemblyReference.cache
+C:\Users\ranav\Desktop\Questions\SingleNumber\SingleNumber\obj\Debug\SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\ranav\Desktop\Questions\SingleNumber\SingleNumber\obj\Debug\SingleNumber.exe
+C:\Users\ranav\Desktop\Questions\SingleNumber\SingleNumber\obj\Debug\SingleNumber.pdb
