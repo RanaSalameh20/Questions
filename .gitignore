@@ -60,6 +60,7 @@ dlldata.c
 
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
+**/properties/*
 
 # .NET Core
 project.lock.json
@@ -321,6 +322,7 @@ paket-files/
 
 # FAKE - F# Make
 .fake/
+
 
 # CodeRush personal settings
 .cr/personal
