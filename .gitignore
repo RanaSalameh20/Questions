@@ -16,6 +16,7 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+GenerateParantheses/packages
 
 # Mono auto generated files
 mono_crash.*
@@ -217,6 +218,7 @@ csx/
 # Microsoft Azure Emulator
 ecf/
 rcf/
+**/packages/*
 
 # Windows Store app package directories and files
 AppPackages/
