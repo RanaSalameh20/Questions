@@ -2,12 +2,12 @@
 {
     public class ListNode
     {
-        public int value;
-        public ListNode next;
-        public ListNode(int val = 0, ListNode next = null)
+        public int Value { get; set; }
+        public ListNode Next { get; set; }
+        public ListNode(int val, ListNode next)
         {
-            this.value = val;
-            this.next = next;
+            this.Value = val;
+            this.Next = next;
         }
     }
 }
